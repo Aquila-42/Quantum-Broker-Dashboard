@@ -1,9 +1,7 @@
 # 💎 The Conway Series: Ultimate Broker Dashboard
 
-Welcome to the latest installment of the **"Conway Series"**—my personal collection of computational "side-quests." This project is a high-performance, 3-panel interactive trading suite designed to deconstruct market momentum in real-time.
+Welcome to the latest installment of the **"Conway Series"** my personal collection of computational "side-quests." This project is a high-performance, 3-panel interactive trading suite designed to deconstruct market momentum in real-time.
 
-## 🚀 Live Interactive Dashboard
-**[PASTE YOUR GITHUB PAGES LINK HERE]**
 
 ---
 
